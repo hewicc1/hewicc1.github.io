@@ -22,7 +22,7 @@ To represent:
 * Sine Function -> "sin( )" eg. sin(0)
 * Cosine Function -> "cos( )" eg. cos(0)
 * Natural Logarithm Function -> "ln( )" eg. ln(1)
-* Natural Exponential Function -> "ln( )" eg. ln(1)
+* Natural Exponential Function -> "e^( )" eg. e^(0)
 ### Modules:
 #### ExprType
 Provides type definition for type Expr(representing differentible equations) and function to retrieve variables from an expression.
