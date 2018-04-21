@@ -35,3 +35,6 @@ Creates parsers to fully parse string inputs into Expr expressions of type Doubl
 #### ExprTest
 Contains various expressions testing the functionality of the Expr type.
 ## License: WTFPL
+## Citations:
+* referenced fellow classmate aksamitn's work for parsing [Here](https://github.com/aksamitn/1XA3-MathIt/blob/master/ExprParser.hs)
+* referenced fellow classmate barskyn's work for testing [Here](https://github.com/barskyn/CS1XA3/blob/master/Assign3/assign3/ExprTest.hs)
